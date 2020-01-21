@@ -1,0 +1,2 @@
+Employee.py program demostrates a  python class with basic oops concepts.
+This program covered the concepts python class,class variables,methods in python(class,instance,static),__init__,inheritance ,super method,__dict__
